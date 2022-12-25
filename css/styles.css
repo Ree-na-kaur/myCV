@@ -1,0 +1,18 @@
+body{
+  background-color:#FFE5F1;
+}
+hr{
+  border-style: none;
+  width: 5%;
+ border-color: grey;
+ border-width: 5px;
+ border-top-style: dotted;
+
+}
+h1{
+  color: #66BFBF;
+}
+h3{
+  color: #66BFBF;
+  font-family: Arial;
+}
